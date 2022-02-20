@@ -1,2 +1,2 @@
 # fin-literacy
-golang test case
+golang test case (see main.go file)
